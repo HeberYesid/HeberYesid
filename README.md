@@ -1,3 +1,4 @@
+<!-- cache-bust -->
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/dashboard-header-static.svg">
   <img src="assets/dashboard-header.svg" alt="Heber Yesid — Backend Developer. Futuristic system dashboard header. Available for work, Colombia, Systems Engineering student at UDES." width="100%">
